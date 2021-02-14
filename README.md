@@ -1,0 +1,2 @@
+# WebCrackv2
+基于WebCrack增加绕过图片识别码进行弱口令爆破的功能
